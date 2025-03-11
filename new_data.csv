@@ -1,4 +1,4 @@
-Date,Game,Earnings,Players,Tournaments,Game_number,Genre
+Date,Game,Earnings,Players,Tournaments,Game_numerical,Genre
 1998-01-01,Command & Conquer: Red Alert,15000.0,8,1,0,Strategy
 1998-01-01,QuakeWorld,15000.0,8,1,1,First-Person Shooter
 1998-05-01,Quake II,15000.0,4,1,2,First-Person Shooter
